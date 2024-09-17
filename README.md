@@ -41,7 +41,7 @@ Plotting the results and saving the graph as a png file<br>
 # Monte Carlo Simulation for Option Pricing
 
 ## How to use
-Install the libraries stated above<br>
+Install the libraries mentioned above<br>
 Initialize:<br>
 The variable ‘stock’ with the ticker symbol of the stock<br>
 The variable ‘days’ with the number of days left<br>
