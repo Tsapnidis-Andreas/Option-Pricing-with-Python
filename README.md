@@ -34,9 +34,9 @@ Pulling the closing prices of the last 365 days to calculate the standard deviat
 Using the Black Scholes formulas to price the call and put options for a range of strike prices<br>
 Saving the table in an excel file<br>
 Plotting the results and saving the graph as a png file<br>
+
 ## Example
-![1](https://github.com/user-attachments/assets/83efd1c7-3dbc-4597-96bc-59680aafe168)
-![2](https://github.com/user-attachments/assets/e954830b-7483-4df7-8493-c9045343964a)
+![Στιγμιότυπο οθόνης 2024-09-11 174654](https://github.com/user-attachments/assets/12b97beb-7b0a-45dd-8081-e4d9ec480766)
 
 # Monte Carlo Simulation for Option Pricing
 
@@ -60,5 +60,6 @@ Plotting 10 different 10 Monte Carlo simulations and saving the graph as a png f
 
 
 ## Example
-![3](https://github.com/user-attachments/assets/b0ec0804-e9fa-4dfa-996c-e01c163844a4)
-![4](https://github.com/user-attachments/assets/ad3d5d6a-49c4-4fc9-bb36-d23b1850f5ac)
+![Στιγμιότυπο οθόνης 2024-09-11 174717](https://github.com/user-attachments/assets/fb3908c4-72fa-4a95-82e2-3b6b5ef62797)
+
+
